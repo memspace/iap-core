@@ -1,0 +1,14 @@
+name: iap_core
+description: Platform-agnostic shared types and logic used by iap Flutter plugin.
+version: 0.1.0
+# homepage: https://www.example.com
+author: Anatoly Pulyaevskiy <anatoly.pulyaevskiy@gmail.com>
+
+environment:
+  sdk: '>=2.0.0 <3.0.0'
+
+dependencies:
+  quiver_hashcode: ^2.0.0
+
+dev_dependencies:
+  test: ^1.0.0
